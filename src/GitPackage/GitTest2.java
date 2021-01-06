@@ -10,6 +10,7 @@ public class GitTest2 {
 		int a=120;
 		int b=130;
 		int sum=a + b;
+		int subtract= b -a;
 		
 		System.out.println("Adding two numbers:" + sum);
 		
