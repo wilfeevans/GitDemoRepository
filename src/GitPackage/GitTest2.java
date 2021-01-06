@@ -8,7 +8,7 @@ public class GitTest2 {
 	{
 	
 		int a=120;
-		int b=130;
+		int b=180;
 		int sum=a + b;
 		int subtract= b -a;
 		
